@@ -46,7 +46,7 @@ function ProductCard({ name, price, category }) {
 function App() {
   return (
     <div style={{ padding: "2rem", fontFamily: "Inter, sans-serif", backgroundColor: "#f9f9f9", minHeight: "100vh" }}>
-      <h1 style={{ color: "#1a1a2e" }}>🛒 Product Listing</h1>
+      <h1 style={{ color: "#1a1a2e" }}>🛒Featured Products </h1>
       <p style={{ color: "#555" }}>Browse our latest collection of products.</p>
       <div style={{
         display: "grid",
